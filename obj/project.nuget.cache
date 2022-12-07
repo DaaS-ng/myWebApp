@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ib0bomoT9yLcLKRocI4Hq5AhMgQF8FA0477aOkw8TLmnfqjhP0QQjGqLE1jI+eE3vNw8OvEziwSTmtY2XLRRFw==",
+  "dgSpecHash": "+YOHOWFIeIVwjpm7a6cgbPNm4bTFZvfjgSDvid6X9+OPMvN82AdlRj1TS1DMXq5DOIwNg8xB3fdjij7ypvwY0A==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Desktop\\myWebApp\\myWebApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
   "logs": []
 }
