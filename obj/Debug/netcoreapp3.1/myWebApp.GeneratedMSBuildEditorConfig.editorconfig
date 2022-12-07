@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 is_global = true
 build_property.RootNamespace = myWebApp
 build_property.ProjectDir = c:\Users\USER\Desktop\myWebApp\
+=======
+is_global = true
+build_property.RootNamespace = myWebApp
+build_property.ProjectDir = c:\Users\USER\Desktop\myWebApp\
+>>>>>>> updated files
