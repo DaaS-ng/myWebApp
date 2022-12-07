@@ -37,7 +37,6 @@ C:\Users\USER\Documents\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.genruntimeconf
 C:\Users\USER\Documents\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.csproj.CopyComplete
 C:\Users\USER\Desktop\myWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\USER\Desktop\myWebApp\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\USER\Desktop\myWebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\USER\Desktop\myWebApp\bin\Debug\netcoreapp3.1\myWebApp.exe
 C:\Users\USER\Desktop\myWebApp\bin\Debug\netcoreapp3.1\myWebApp.deps.json
 C:\Users\USER\Desktop\myWebApp\bin\Debug\netcoreapp3.1\myWebApp.runtimeconfig.json
@@ -46,7 +45,6 @@ C:\Users\USER\Desktop\myWebApp\bin\Debug\netcoreapp3.1\myWebApp.dll
 C:\Users\USER\Desktop\myWebApp\bin\Debug\netcoreapp3.1\myWebApp.pdb
 C:\Users\USER\Desktop\myWebApp\bin\Debug\netcoreapp3.1\myWebApp.Views.dll
 C:\Users\USER\Desktop\myWebApp\bin\Debug\netcoreapp3.1\myWebApp.Views.pdb
-C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.csprojAssemblyReference.cache
 C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.AssemblyInfoInputs.cache
 C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.AssemblyInfo.cs
 C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.csproj.CoreCompileInputs.cache
@@ -67,8 +65,15 @@ C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.RazorTargetAssem
 C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.RazorTargetAssemblyInfo.cs
 C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.Views.pdb
 C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\staticwebassets\myWebApp.StaticWebAssets.Manifest.cache
-C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\staticwebassets\myWebApp.StaticWebAssets.xml
 C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.dll
 C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.pdb
 C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.genruntimeconfig.cache
 C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.csproj.CopyComplete
+C:\Users\USER\Desktop\myWebApp\bin\Debug\netcoreapp3.1\myWebApp.StaticWebAssets.xml
+C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\myWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\staticwebassets\myWebApp.StaticWebAssets.Pack.cache
+C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.myWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.myWebApp.props
+C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.myWebApp.props
+C:\Users\USER\Desktop\myWebApp\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.myWebApp.props
